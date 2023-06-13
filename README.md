@@ -1,5 +1,5 @@
 # GlobalLink
-## A Computer Networks Lab Project
+## A Computer Networks Lab Semester Project
 
 This project focused on designing and configuring a computer network using the Cisco Packet Tracer V6.0.1. The goal was to implement various networking concepts such as VLSM (Variable Length Subnet Masking) for efficient IP address allocation, IP addressing, routing protocols, VLANs, DHCP, NAT, and inter-VLAN communication.
 
