@@ -49,7 +49,7 @@ To run or simulate the network, follow these instructions:
 ## Authors
 
 - [Mustafa Aqeel](https://github.com/mustafaaqeel)
-- [Muhammad Wasif](https://github.com/wasifmohammad)
+- [Muhammad Wasif](https://github.com/wiznemm)
 - [Saad Abdur Razzaq](https://github.com/saadarazzaq)
 
 
